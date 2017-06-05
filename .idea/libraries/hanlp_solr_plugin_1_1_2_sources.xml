@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="hanlp-solr-plugin-1.1.2-sources">
+    <CLASSES />
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/lib/hanlp/hanlp-solr-plugin-1.1.2-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
